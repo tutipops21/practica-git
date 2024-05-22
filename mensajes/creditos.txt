@@ -1,0 +1,5 @@
+Nombre: Jesus Angel Acosta Ortiz
+Correo: acostaortizjesusangel@gmail.com
+Edad: 25 años
+Carrera: Desarrollo de software
+Grupo: DS01SV-23
